@@ -7,10 +7,14 @@ body {
     font-size: 30px;
     color: blue;
 }
-
+h1 {
+    text-align: center;
+}
 h2 {
     font-size: 20px;
     color: brown;
+    text-align: center;
+    
 }
 
 title {
@@ -19,6 +23,7 @@ title {
 
 img {
     border-radius: 100%;
+    
 }
 
 .list {
@@ -27,8 +32,26 @@ img {
 
 #sobre {
     color: blue;
+    text-align: center;
+    
 }
 
 #name {
     color: black;
+}
+
+a {
+    color: black;
+}
+
+.foto {
+  text-align: center;
+}
+
+.listcenter {
+    
+}
+
+h2:hover {
+    color: blue;
 }
